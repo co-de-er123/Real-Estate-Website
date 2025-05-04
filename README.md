@@ -18,17 +18,6 @@ A simple and easy-to-use real estate platform built using **React** and **Next.j
 | React        | Express.js  | CSS Modules     | Next.js         |
 | Next.js      | Node.js     | TailwindCSS (optional) | RESTful APIs     |
 
-**📂 Project Structure**
-
-/client # React + Next.js frontend
-/components # Reusable components
-/pages # Page-based routing (Next.js)
-/styles # CSS or Tailwind styles
-
-/server # Express.js backend
-/routes # API route handlers
-/controllers # Business logic
-/models # (Optional) DB models (MongoDB or similar)
 
 
 **🛠️ Setup Instructions**
